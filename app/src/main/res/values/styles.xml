@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="buttonStyle">
+        <item name="android:background">#F08C35</item>
+        <item name="android:borderlessButtonStyle">?android:attr/borderlessButtonStyle</item>
+        <item name="android:layout_width">216dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <!--<item name="android:textSize">24sp</item>-->
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+
+
+
+
+
+
+</resources>
